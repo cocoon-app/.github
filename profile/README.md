@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://cocoon-app.github.io/download/Cocoon.dmg"><b>Download for Mac</b></a>
+  <a href="https://cocoon-app.github.io/download/"><b>Download for Mac</b></a>
   &nbsp;·&nbsp;
   <a href="https://cocoon-app.github.io">Website</a>
   &nbsp;·&nbsp;
